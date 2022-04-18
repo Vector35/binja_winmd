@@ -1,0 +1,6 @@
+[submodule "win32jsongen"]
+	path = win32jsongen
+	url = git@github.com:Vector35/win32jsongen.git
+[submodule "win32json"]
+	path = win32json
+	url = git@github.com:Vector35/win32json.git
